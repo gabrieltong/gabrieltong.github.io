@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Gabriel's Blog]]></title>
+  <link href="http://blog.railsg.com/atom.xml" rel="self"/>
+  <link href="http://blog.railsg.com/"/>
+  <updated>2016-05-18T22:12:25+08:00</updated>
+  <id>http://blog.railsg.com/</id>
+  <author>
+    <name><![CDATA[gabrieltong]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My First Blog]]></title>
+    <link href="http://blog.railsg.com/blog/2016/05/18/my-first-blog/"/>
+    <updated>2016-05-18T22:07:53+08:00</updated>
+    <id>http://blog.railsg.com/blog/2016/05/18/my-first-blog</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
